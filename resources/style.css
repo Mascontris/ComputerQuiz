@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Metrophobic', sans-serif;
+    background-color: white;
+    border: 1px solid black;
+}
+
+h1, h2, aside {
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    background-color: lightgrey;
+    width: 100%;
+
+}
+
+h2 {
+    width: 100%;
+}
+
+aside {
+    background-color: grey;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+}
+
+form {
+    background-color: lightgrey;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+li {
+    margin-left: 2em;
+}
+
